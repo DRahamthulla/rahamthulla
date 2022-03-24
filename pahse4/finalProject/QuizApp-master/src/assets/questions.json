@@ -1,0 +1,170 @@
+{
+    "questions": [
+        {
+            "questionText": "1)Which of the following statement is correct for AngularJS?",
+            "options": [
+                {
+                    "text": "AngularJS is an HTML framework"
+                },
+                {
+                    "text": "AngularJS is a Java framework"
+                },
+                {
+                    "text": "AngularJS is a JavaScript framework",
+                    "correct": true
+                },
+                {
+                    "text": "AngularJS is a SQL framework"
+                }
+            ],
+            "explanation": " C is the correct option. AngularJS is a JavaScript framework"
+        },
+        {
+            "questionText": "2)On which of the Architectural pattern AngularJS is based?",
+            "options": [
+                {
+                    "text": "Observer Pattern"
+                },
+                {
+                    "text": "Observer Pattern"
+                },
+                {
+                    "text": "MVC Architecture pattern"
+                },
+                {
+                    "text": "MVVM Architectural pattern",
+                    "correct": true
+                }
+            ],
+            "explanation": " D is the correct option. AngularJS is based on MVVM Architectural pattern. "
+        },
+        {
+            "questionText": "3)AngularJS is perfect for?",
+            "options": [
+                {
+                    "text": "SPAs",
+                    "correct": true
+                },
+                {
+                    "text": "MPAs"
+                },
+                {
+                    "text": "DPAs"
+                },
+                {
+                    "text": "CPAs"
+                }
+            ],
+            "explanation": "A is the correct option. AngularJS is perfect for Single Page Applications (SPAs). "
+        },
+        {
+            "questionText": "4) Which of the following is the correct syntax for writing AngularJS expressions? ",
+            "options": [
+                {
+                    "text": "(expression)"
+                },
+                {
+                    "text": "{{expression}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{{expression}}}"
+                },
+                {
+                    "text": "[expression]"
+                }
+            ],
+            "explanation": "B is the correct option. The correct syntax for writing AngularJS expressions is: {{expression}}"
+        },
+        {
+            "questionText": "5) Do AngularJS provide reusable components?",
+            "options": [
+                {
+                    "text": "YES",
+                    "correct": true
+                },
+                {
+                    "text": "NO"
+                }
+                
+            ],
+            "explanation": " A is the correct option. AngularJS provides reusable components"
+        },
+        {
+            "questionText": "6) Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+            "options": [
+                {
+                    "text": "ng-app directive"
+                },
+                {
+                    "text": "ng-model directive"
+                },
+                {
+                    "text": "ng-bind directive",
+                    "correct": true
+                },
+                {
+                    "text": "ng-init directive"
+                }
+            ],
+            "explanation": "C is the correct option. The ng-bind directive is used to bind the application data to the HTML view in the AngularJS application. "
+        },
+        {
+            "questionText": "7) Which of the following syntax is correct for applying multiple filters in AngularJS?",
+            "options": [
+                {
+                    "text": "{{ expression | filter1 | filter2 | ... }}"
+                },
+                {
+                    "text": "{{ expression |{ filter1} | {filter2}| ... }}",
+                    "correct": true
+                },
+                {
+                    "text": "{{ expression - {filter1} - {filter2} - ... }}"
+                },
+                {
+                    "text": "{{ {filter1} | {filter2} | ...-expression}}"
+                }
+            ],
+            "explanation": " A is the correct option. The syntax of applying multiple filters in AngularJS can be written as: {{ expression | filter1 | filter2 | ... }} "
+        },
+        {
+            "questionText": "8) Which of the following statement is true about the lowercase filter?",
+            "options": [
+                {
+                    "text": "The lowercase filter converts a text to lower case text.",
+                    "correct": true
+                },
+                {
+                    "text": "The lowercase filter is a function that takes text as input."
+                },
+                {
+                    "text": "Both of the above."
+                },
+                {
+                    "text": "None of the above."
+                }
+            ],
+            "explanation": "A is the correct option. The lowercase filter converts a text to lower case text. That's why it is added to the AngularJS expression to filter out the result.  "
+        },
+        {
+            "questionText": "9) Which of the following is an advantage of AngularJS?",
+            "options": [
+                {
+                    "text": "AngularJS code is unit testable"
+                },
+                {
+                    "text": "AngularJS provides reusable components."
+                },
+                {
+                    "text": "AngularJS uses dependency injection and makes use of separation of concerns."
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation":"D is the correct option. All of the above are the advantages of AngularJS. "
+        }
+    ]
+}
